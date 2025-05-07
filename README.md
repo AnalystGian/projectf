@@ -1,2 +1,2 @@
 # projectf README #
-Fun with network commands
+Having fun with network commands
